@@ -25,4 +25,8 @@ This should automatically open your jupyter notebook in your default browser at 
 
 ###### note: jupyter lab is the upgraded jupyter notebook, and you might want to try to install and configure jupyter lab instead of jupyter notebook but up to you.
 
+### Download and Run the jupyter notebook
 
+After you have completed the pre-requisite steps, simply download the jupyter notebook called "my_notebook" and run all the scripts by hitting the __Shift + Enter__ keys, or you can navigate to the top of the jupyter notebook and hitting the run button.
+
+Please feel free to email me if you have any comments or suggestions: arshyasharifian@gmail.com
