@@ -4,5 +4,8 @@ This repo showcases how to use a jupyter notebook to analyze a dataset and build
 
 First make sure you have python by opening terminal and typing:
 
->python -V
+'''
+python -V
+'''
 
+You should see the python version you have installed on your machine: 3.x.y (where x and y are
