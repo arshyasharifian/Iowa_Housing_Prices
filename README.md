@@ -21,7 +21,7 @@ Next, make sure you have downloaded and installed jupyter notebook. To check sim
 
 > jupyter notebook
 
-This should automatically open your jupyter notebook in your default browser at the location of localhost:8888.  If you don't see this then follow [these instructions to install and configure your notebook].  
+This should automatically open your jupyter notebook in your default browser at the location of localhost:8888.  If you don't see this then follow [these instructions to install and configure your notebook] (https://jupyter.org/install).  
 
 ###### note: jupyter lab is the upgraded jupyter notebook, and you might want to try to install and configure jupyter lab instead of jupyter notebook but up to you.
 
