@@ -15,13 +15,13 @@ First make sure you have python by opening terminal and type to check the versio
 > python -V
 
 You should see the python version you have installed on your machine: 3.x.y (where x and y are some subversion of version 3).
-If you don't see version 3, download it [here] (https://www.python.org/downloads/).
+If you don't see version 3, download it [here](https://www.python.org/downloads/).
 
 Next, make sure you have downloaded and installed jupyter notebook. To check simply open your terminal and change directory (cd) until you reach a folder you are familiar with and enter the following:
 
 > jupyter notebook
 
-This should automatically open your jupyter notebook in your default browser at the location of localhost:8888.  If you don't see this then follow [these instructions to install and configure your notebook] (https://jupyter.org/install).  
+This should automatically open your jupyter notebook in your default browser at the location of localhost:8888.  If you don't see this then follow [these instructions to install and configure your notebook](https://jupyter.org/install).  
 
 ###### note: jupyter lab is the upgraded jupyter notebook, and you might want to try to install and configure jupyter lab instead of jupyter notebook but up to you.
 
